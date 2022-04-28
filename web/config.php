@@ -22,11 +22,11 @@ else {
 }
 
 $GLOBALS["START_MESSAGE"] = <<<EOM
-Thank you for using me <a href="https://t.me/cyberstainbot">😬</a>
+Thank you for using me <a href="https://t.me/Brucebots">😬</a>
 
 <u><b>you can forward me any media message</b></u>, and <b><i>I might help you to create a PUBlic link</i></b>.
 
-Subscribe ℹ️ @cyberstainbot if you ❤️ using this bot!
+😉 Join  @brucebots if you ❤️ using this bot!.Made With ❤️ by @bruce_3_33.
 EOM;
 $GLOBALS["CHECKING_MESSAGE"] = "🤔";
 require_once __DIR__ . "/../vendor/autoload.php";
