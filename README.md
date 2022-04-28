@@ -12,7 +12,7 @@ Powerful bot for file sharing without any database
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MovierulzTyson/RBRUCEFILESTOREBOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tysonmovierulz/Bruce-FilesBot.git)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/laPcn3?referralCode=jugnucode)
 
