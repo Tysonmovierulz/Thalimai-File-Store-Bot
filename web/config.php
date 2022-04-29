@@ -28,5 +28,5 @@ $GLOBALS["START_MESSAGE"] = <<<EOM
 
 😉 𝐃𝐨 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 @𝐛𝐫𝐮𝐜𝐞_𝟑_𝟑𝟑 𝐈𝐟 𝐘𝐨𝐮  💕 𝐔𝐬𝐢𝐧𝐠 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭.
 EOM;
-$GLOBALS["CHECKING_MESSAGE"] = "🤔";
+$GLOBALS["CHECKING_MESSAGE"] = "🌹";
 require_once __DIR__ . "/../vendor/autoload.php";
