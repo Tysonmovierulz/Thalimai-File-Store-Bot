@@ -28,5 +28,5 @@ $GLOBALS["START_MESSAGE"] = <<<EOM
 
 𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐒𝐭𝐚𝐫𝐭 𝐓𝐨 𝐆𝐞𝐭 𝐌𝐨𝐯𝐢𝐞.
 EOM;
-$GLOBALS["CHECKING_MESSAGE"] = "";
+$GLOBALS["CHECKING_MESSAGE"] = "🌹";
 require_once __DIR__ . "/../vendor/autoload.php";
